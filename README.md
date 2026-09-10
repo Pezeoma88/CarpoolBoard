@@ -40,13 +40,23 @@ Head to the Expo development page.
 
 Link to the page and QR Code to scan.
 
+The app can then be opened using Expo Go.
+
 https://expo.dev/accounts/smu-c3-mobile-fall-26
 https://expo.dev/accounts/smu-c3-mobile-fall-26/projects/tiptap/updates/58d9ed54-113b-4f69-ad9f-fad57ec71e56
 
 <img width="149" height="145" alt="image" src="https://github.com/user-attachments/assets/e23e6c8a-2c6a-4e06-a581-5df4bd70f268" />
 
 
-The app can then be opened using Expo Go.
+
+For Android Development.
+
+
+https://android.google.com/developerconsole/device-invite/CrUBChC1MKmLLJRMvLx38KQTDLNuEngIuPy3vQ0ScApkCjR0eXBlLmdvb2dsZWFwaXMuY29tL2dvb2dsZS5jcnlwdG8udGluay5IcGtlUHVibGljS2V5EioSBggBEAEYAhogLN5rWZWiz9vfy1ktAJf0T9cGPHVs7zxZZ3eM2DtmfzwYAxABGLj8t70NIAEaDAic0bHVBhCAtcbBASIZCIL6nabOlLK7GhINUHJpbmNlIEV6ZW9tYRJIMEYCIQDgtepzUC8MXBsTP_6iookOLs9IoFC7gnUKrR7PTNpIbQIhAJgTjlfcn24dS8W7bgaCPLW7VLOH6yrXNfZ3lr3nauqb
+
+<img width="178" height="163" alt="image" src="https://github.com/user-attachments/assets/5d5693fb-cbcf-4741-9b58-b426e01d07b5" />
+
+
 
 ## Prototype 1
 
